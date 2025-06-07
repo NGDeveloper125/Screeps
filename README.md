@@ -1,2 +1,2 @@
 # Screeps
-Contain my Screeps game code
+Contains my Screeps game code
